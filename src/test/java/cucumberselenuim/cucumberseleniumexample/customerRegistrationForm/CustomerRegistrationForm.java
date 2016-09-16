@@ -20,7 +20,6 @@ public class CustomerRegistrationForm {
 	public static String name;
 	public static String email;
 	public static String baseUrl = "http://54.164.139.56:9090/customerRegistration/";
-	// public static String baseUrl = "http://localhost:8080/customerRegistration/";
 	public static String moduleName = "customerRegistration";
 
 	@Given("^User is on register customer page$")
