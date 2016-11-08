@@ -19,7 +19,7 @@ public class CustomerRegistrationForm {
 	public static WebDriver driver;
 	public static String name;
 	public static String email;
-	public static String baseUrl = "http://54.164.139.56:9090/customerRegistration/";
+	public static String baseUrl = "http://54.167.106.13:7070/customerRegistration/";
 	public static String moduleName = "customerRegistration";
 
 	@Given("^User is on register customer page$")
